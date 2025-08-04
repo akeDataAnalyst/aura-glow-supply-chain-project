@@ -1,0 +1,9 @@
+SKU,Warehouse,Current_Stock,Unit_Cost
+SKU-001,West Coast,8000,3.5
+SKU-002,West Coast,500,4.2
+SKU-003,West Coast,10000,3.8
+SKU-004,West Coast,200,6.0
+SKU-001,East Coast,5000,3.5
+SKU-002,East Coast,300,4.2
+SKU-003,East Coast,8000,3.8
+SKU-004,East Coast,150,6.0
