@@ -20,19 +20,19 @@ The complete, end-to-end dashboard combining all key insights, published and rea
 ![](pic/aura-glowtableau-dashboard.PNG)
 
 ## Key Findings & Recommendations
-**Data-Driven Purchase Plan (Q3 & Q4 2025)**: Based on the analysis, a purchase order of $1,665,600.00 was recommended to meet forecasted demand and prevent stockouts.
+- **Data-Driven Purchase Plan (Q3 & Q4 2025)**: Based on the analysis, a purchase order of $1,665,600.00 was recommended to meet forecasted demand and prevent stockouts.
 
 ![](pic/auraglow-googlesheets.PNG)
 
-**Proactive Risk Management**: The dashboard provides a system to flag inventory risks early, allowing for timely decision-making.
+- **Proactive Risk Management**: The dashboard provides a system to flag inventory risks early, allowing for timely decision-making.
 
 ## Technologies Used
-Python, Pandas, Prophet, Google Sheets, Tableau
+- Python, Pandas, Prophet, Google Sheets, Tableau
 
 ## Final Deliverables
-**Live Google Sheets Dashboard**: https://docs.google.com/spreadsheets/d/1WTgrwlUb9VTFM-pDlE5EaB0jVqSSJ-ctwDPXaT6bfgI/edit?usp=sharing
+- **Live Google Sheets Dashboard**: https://docs.google.com/spreadsheets/d/1WTgrwlUb9VTFM-pDlE5EaB0jVqSSJ-ctwDPXaT6bfgI/edit?usp=sharing
 
-**Interactive Tableau Dashboard**: https://public.tableau.com/app/profile/aklilu.abera/viz/AuraGlowSupplyChainDashboard/Dashboard1
+- **Interactive Tableau Dashboard**: https://public.tableau.com/app/profile/aklilu.abera/viz/AuraGlowSupplyChainDashboard/Dashboard1
 
-**Python Forecasting Code**: https://github.com/akeDataAnalyst/aura-glow-supply-chain-project/blob/main/script/forecasting_script.ipynb
+- **Python Forecasting Code**: https://github.com/akeDataAnalyst/aura-glow-supply-chain-project/blob/main/script/forecasting_script.ipynb
 
