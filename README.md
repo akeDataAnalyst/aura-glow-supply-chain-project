@@ -6,7 +6,7 @@ This project demonstrates an end-to-end supply chain analysis and inventory mana
 1. The Live Inventory Dashboard (Google Sheets)
 A dynamic dashboard built in Google Sheets to monitor key metrics like Days of Supply and automatically flag inventory risks.
 
-	![]()
+![](pic/live-inventory-google-sheets.PNG)
 
 3. Advanced Sales Forecasting (Tableau)
 An interactive line chart visualizing historical sales (Y) and a 6-month sales forecast (Yhat) generated using the Prophet library in Python.
@@ -17,10 +17,12 @@ A color-coded chart that uses visual alerting (Green for "Healthy," Red for "Ris
 5. The Final Dashboard (Tableau)
 The complete, end-to-end dashboard combining all key insights, published and ready for sharing.
 
-	![]()
+![](pic/aura-glowtableau-dashboard.PNG)
 
 ## Key Findings & Recommendations
 **Data-Driven Purchase Plan (Q3 & Q4 2025)**: Based on the analysis, a purchase order of $1,665,600.00 was recommended to meet forecasted demand and prevent stockouts.
+
+![](pic/auraglow-googlesheets.PNG)
 
 **Proactive Risk Management**: The dashboard provides a system to flag inventory risks early, allowing for timely decision-making.
 
