@@ -32,5 +32,5 @@ Python, Pandas, Prophet, Google Sheets, Tableau
 
 **Interactive Tableau Dashboard**: https://public.tableau.com/app/profile/aklilu.abera/viz/AuraGlowSupplyChainDashboard/Dashboard1
 
-Python Forecasting Code: [script/forecasting_script.ipynb]
+**Python Forecasting Code**: https://github.com/akeDataAnalyst/aura-glow-supply-chain-project/blob/main/script/forecasting_script.ipynb
 
