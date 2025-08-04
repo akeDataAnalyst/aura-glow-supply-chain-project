@@ -28,9 +28,9 @@ The complete, end-to-end dashboard combining all key insights, published and rea
 Python, Pandas, Prophet, Google Sheets, Tableau
 
 ## Final Deliverables
-**Live Google Sheets Dashboard**: [https://docs.google.com/spreadsheets/d/1WTgrwlUb9VTFM-pDlE5EaB0jVqSSJ-ctwDPXaT6bfgI/edit?usp=sharing]
+**Live Google Sheets Dashboard**: https://docs.google.com/spreadsheets/d/1WTgrwlUb9VTFM-pDlE5EaB0jVqSSJ-ctwDPXaT6bfgI/edit?usp=sharing
 
-**Interactive Tableau Dashboard**: [https://public.tableau.com/app/profile/aklilu.abera/viz/AuraGlowSupplyChainDashboard/Dashboard1]
+**Interactive Tableau Dashboard**: https://public.tableau.com/app/profile/aklilu.abera/viz/AuraGlowSupplyChainDashboard/Dashboard1
 
-Python Forecasting Code: []
+Python Forecasting Code: [script/forecasting_script.ipynb]
 
